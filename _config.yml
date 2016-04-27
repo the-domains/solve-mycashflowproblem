@@ -1,0 +1,28 @@
+name: solve mycashflowproblem
+favicon: null
+layout_spectrum: 0.44505950016900897
+typography_spectrum: 0.43260843586176634
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9352228411007673
+  lightness: 0.9766202555038035
+  saturation: 0.5045087863691151
+  rhythmicContrast: 0.42789900698699057
+purpose: []
