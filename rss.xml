@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Solve My Cashflow Problem]]></title>
         <description><![CDATA[Solve My Cashflow Problem]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/solve-mycashflowproblem/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 04:36:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Apr 2016 05:59:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/solve-mycashflowproblem/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>How to solve your cashflow problems in 7 days</p>]]></description>
-            <link>undefinedhow-to-solve-your-cashflow-problems-in-7-days/index.html</link>
+            <link>https://thegrid.ai/solve-mycashflowproblem/how-to-solve-your-cashflow-problems-in-7-days/index.html</link>
             <guid isPermaLink="false">2cfb8ee5-e2b0-490c-92b7-a504fa718279</guid>
-            <pubDate>Wed, 27 Apr 2016 04:36:01 GMT</pubDate>
+            <pubDate>Thu, 28 Apr 2016 05:59:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
